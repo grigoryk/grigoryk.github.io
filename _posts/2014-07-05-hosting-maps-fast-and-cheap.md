@@ -1,3 +1,10 @@
+---
+layout: post
+title: "Hosting MBTiles maps, fast and cheap"
+date: 2014-07-05 13:37:00
+categories: maps loveyourmap mbtiles devops
+---
+
 My girlfriend was working on a data visualization project, creating a map of Vancouver's buildings colourized by their age of construction. She has created one several months ago in ArcGIS to aid us in our apartment hunt in Vancouver, but now we decided to make it interactive and publish it online. I've pointed her towards mapbox's great TileMill, and in a couple of days she came up with a great looking, at times trippy map.
 
 Now, how do we get people to see it? TileMill, after some persistence, produced an MBTILE export, which is essentially a SQLITE database with bunch of rendered map tiles in it. Mapbox.com offers a map hosting service, but with her map, she was looking at a $50/month price tag at least.
