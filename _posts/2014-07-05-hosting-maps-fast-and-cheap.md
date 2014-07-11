@@ -9,7 +9,9 @@ Intro
 [Ekaterina](http://aristova.me) was working on a data visualization project, creating a map of Vancouver's buildings colourized by their age of construction. She has created one several months ago in ArcGIS to aid in our apartment hunt in Vancouver, but now we decided to make it interactive and publish it online. I've pointed her towards Mapbox's great map design tool [TileMill](https://www.mapbox.com/tilemill/), and in a couple of days she came up with a great looking, at times trippy map.
 
 Check out the interactive version (click-click!):
-<a href="www.aristova.me/projects/vancouver-building-age-map/" title="Vancouver's building age map">![Vancouver's colourized building age map](http://i.imgur.com/Z8JpGgA.png)</a>
+<a href="www.aristova.me/projects/vancouver-building-age-map/" title="Vancouver's building age map">
+    <img title="Vancouver's colourized building age map" src="http://i.imgur.com/Z8JpGgA.png" width="100%">
+</a>
 
 Now, how do we get people to see it? TileMill, after some persistence, produced an MBTiles export, which is a SQLite database consisting of a bunch of rendered map tiles and some meta information (including map legend, UTFGrid). [Mapbox.com](http://mapbox.com) offers a map hosting service, but with Ekaterina's map we were looking at $50/month at least - which would only go up if the map saw significant use.
 
@@ -29,6 +31,6 @@ Initially when we launched the map, I've exposed the Gunicorn instance to the pu
 
 Note on DigitalOcean coupons: they're out there! After a 30 second search on google, everything is hosted entirely free of charge (for a month, and perhaps [loveyourmap.com](http://loveyourmap.com) will start paying for itself afterwards).
 
-<img title="map pageview stats" src="http://i.imgur.com/8qVC7Ia.png" width="900">
+<img title="map pageview stats" src="http://i.imgur.com/8qVC7Ia.png" width="100%">
 
 In the six days that it's been online, this map received around 20k unique pageviews, and got some amount of attention from the local community, blogs and media.
