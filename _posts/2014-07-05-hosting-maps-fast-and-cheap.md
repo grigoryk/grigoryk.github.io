@@ -9,7 +9,7 @@ Intro
 [Ekaterina](http://aristova.me) was working on a data visualization project, creating a map of Vancouver's buildings colourized by their age of construction. She has created one several months ago in ArcGIS to aid in our apartment hunt in Vancouver, but now we decided to make it interactive and publish it online. I've pointed her towards Mapbox's great map design tool [TileMill](https://www.mapbox.com/tilemill/), and in a couple of days she came up with a great looking, at times trippy map.
 
 Check out the interactive version (click-click!):
-<a href="www.aristova.me/projects/vancouver-building-age-map/" title="Vancouver's building age map">
+<a href="http://www.aristova.me/projects/vancouver-building-age-map/" title="Vancouver's building age map">
     <img title="Vancouver's colourized building age map" src="http://i.imgur.com/Z8JpGgA.png" width="100%">
 </a>
 
