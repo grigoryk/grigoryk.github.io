@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Developer's block"
+title:  "Developer's block - first rough draft"
 date:   2015-11-03 22:31:00
 categories: personal meta
 permalink: /2015/11/developers-block/
@@ -47,4 +47,4 @@ I used to tinker with my computer all the time. When I was a kid, I treated its 
 An obvious thing to do here is to switch away from OSX. About a year ago I've installed Arch on my MBAir, but never really followed through with it. I remember there was some annoyance, and some things just seemed needlessly complicated. In the end, I didn't have patience for it - and went hiking instead. It seems that spending time screwing around with linux distros isn't the best use of my time - but then again, perhaps it's part of a some longer-term plan that actually makes sense.
 
 ## Building things "offline"
-Recently I've signed up for a membership at a local maker place - [http://www.makerlabs.com](MakerLabs). They give you access to a whole bunch of tools - a woodworking shop, laser cutters, CNC routers, 3D Printers, etc. My goal is to learn some new skills, and build some very tangible things. I've started with a maple cutting board, which was simple and fun. I've met interesting people from different fields in there, and perhaps that will lead to some cross-polination of ideas.
+Recently I've signed up for a membership at a local maker place - [MakerLabs](http://www.makerlabs.com). They give you access to a whole bunch of tools - a woodworking shop, laser cutters, CNC routers, 3D Printers, etc. My goal is to learn some new skills, and build some very tangible things. I've started with a maple cutting board, which was simple and fun. I've met interesting people from different fields in there, and perhaps that will lead to some cross-polination of ideas.
