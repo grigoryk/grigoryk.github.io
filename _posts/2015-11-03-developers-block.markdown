@@ -46,7 +46,7 @@ I used to tinker with my computer all the time. When I was a kid, I treated its 
 
 An obvious thing to do here is to switch away from OSX. About a year ago I've installed Arch on my MBAir, but never really followed through with it. I remember there was some annoyance, and some things just seemed needlessly complicated. In the end, I didn't have patience for it - and went hiking instead. It often seems that spending time screwing around with linux distros isn't the best use of my time - but then again, perhaps it's part of a some longer-term plan that actually makes sense.
 
-Either way, since starting writing this post I have been inspired enough to install the new Fedora 23 release, and I've now mostly have it configured! And it's been really fun. Cool beans.
+Either way, since starting writing this post I have been inspired enough to [install the new Fedora 23 release](http://www.grigory.ca/2015/11/fedora-23-on-macbook-air-52/), and I've now mostly have it configured! And it's been really fun. Cool beans.
 
 ## Building things "offline"
 Recently I've signed up for a membership at a local maker place - [MakerLabs](http://www.makerlabs.com). They give you access to a whole bunch of tools - a woodworking shop, laser cutters, CNC routers, 3D Printers, etc. My goal is to learn some new skills, perhaps meet people that I wouldn't normally get to interact with, and build some tangible things. I've started by making a maple cutting board, which was simple and surprisingly very enjoyable. Being exposed a little to the local maker community also made me look at my own home with different eyes, and I've started working on 3D modeling some simple custom furniture ideas. More projects to come!
