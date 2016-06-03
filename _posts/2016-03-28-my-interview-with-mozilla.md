@@ -3,7 +3,7 @@ layout: post
 title:  "My interview with Mozilla"
 date:   2016-03-28 00:13:13
 categories: mozilla
-permalink: /2015/11/my-interview-with-mozilla/
+permalink: /2016/03/my-interview-with-mozilla/
 ---
 
 On January 21st, just past midnight, I filled out a form on [careers.mozilla.org](https://careers.mozilla.org/) describing why I believe I'll be a good fit for the Firefox for Android team, clicked submit, and went to bed. I woke up to an email from a recruiter at mozilla - they wanted to chat. I'll summarize the process here if anyone's curious:
