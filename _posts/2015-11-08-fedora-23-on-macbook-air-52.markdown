@@ -5,7 +5,7 @@ date:   2015-11-08 22:31:00
 categories: personal meta
 permalink: /2015/11/fedora-23-on-macbook-air-52/
 ---
-**Update:** so, I couldn't fix usb issues; it's probably my hardware though, as the ports could act pretty wonky in OSX as well (although, at least they work). And over time, Fedora has been a tad unstable on the macbook. Overall so far I've had much better luck with running Fedora on my work-provided Thinkpad Carbon X1 - after some tweaking, it turned into a great little dev machine.
+**Update (june 2nd) :** so, I couldn't fix usb issues; it's probably my hardware though, as the ports could act pretty wonky in OSX as well (although, at least they work). And over time, Fedora has been a tad unstable on the macbook. Overall so far I've had much better luck with running Fedora on my work-provided Thinkpad Carbon X1 - after some tweaking, it turned into a great little dev machine.
 
 I finally got around to installing a desktop linux distro on my daily laptop! Last time I've used linux full-time was somewhere around 2007-2008, and since then it was all Macbooks and OSX. I briefly mentioned in my [post about dealing with "Developer's Block"](http://grigory.ca/2015/11/developers-block-and-dealing-with-it) that over the years I have felt that not using a Linux desktop environment must have had a certain negative effect on my desire to tinker with stuff and build new things. Fedora 23 was just released, so I figured why not give it a spin!
 
