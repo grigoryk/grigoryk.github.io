@@ -4,8 +4,8 @@ title: About
 permalink: /about/
 ---
 
-I've just started porting this blog from my old wordpress website. It's a bit plain at the moment.
+Привет!
 
-[LinkedIn](https://www.linkedin.com/in/grigorykruglov)
+My name is Grisha. If you were to observe me for a week, you might notice that I spend a lot of my time trying to will computer programs into existence, for better or worse. I also like to physically traverse the world, one hike at a time, to try and see what it is all about.
 
-[Twitter](http://twitter.com/lunafiko)
+[Instagram](http://instagram.com/lunafiko) | [LinkedIn](https://www.linkedin.com/in/grigorykruglov) | [Twitter](http://twitter.com/lunafiko)
