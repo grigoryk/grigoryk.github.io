@@ -5,6 +5,8 @@ date:   2016-10-09 02:09:13
 categories: thoughts
 permalink: /2016/06/about-the-abstract/
 ---
+![Getting lost](http://i.imgur.com/9qUnPSV.jpg "Getting lost")
+
 What is it like to explore and will into existence creations abstract in nature? Explore their shapes, understand the intricate fabric, the coarse skin, the surface tension of the many layers. What is it like to see their colours, know how they feel to the touch, observe their flow through time, know them in the past, present, imagine them in the future?
 
 From musical landscapes to manifestations of software, these worlds exist all around us. They present themselves in familiar shapes, but beyond the familiar are vast adventures, sometimes taken solo, sometimes in small bands. These worlds are there for you to visit and explore. They take shape of vast cities, small villages, countries and continents, creaking cabins, of sand castles. At times they are orderly, easy to grasp and navigate. Some are friendly. Others - chaotic, changing dangerously as they are traversed.
