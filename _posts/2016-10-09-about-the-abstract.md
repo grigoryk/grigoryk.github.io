@@ -13,4 +13,4 @@ We are both adventurers in these worlds and their creators, often unknowingly st
 
 These spaces we will into being or discover might fill us with pride, or joy, or satisfaction, or fear and confusion, but ultimately they just are, not here for us or to serve a purpose. Their projections might stir reality into action, might cause a light to blink, a plane to fly or a concert hall to grasp. But the abstract exists in the abstract, in the shared consciousness of those who venture our to explore, and inevitable - to get lost.
 
-![Getting lost](http://i.imgur.com/9qUnPSV.jpg "Getting lost")
+![Getting lost](https://i.imgur.com/9qUnPSV.jpg "Getting lost")
