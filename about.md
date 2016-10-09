@@ -10,4 +10,4 @@ My name is Grisha. If you were to observe me for a week, you might notice that I
 
 [Instagram](http://instagram.com/lunafiko) | [LinkedIn](https://www.linkedin.com/in/grigorykruglov) | [Twitter](http://twitter.com/lunafiko)
 
-<img src="http://i.imgur.com/U5uhgJk.jpg" width="100%" />
+<img src="http://i.imgur.com/U5uhgJk.jpg" title="Lost in the scottish highlands" width="100%" />
