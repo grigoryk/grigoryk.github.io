@@ -2,20 +2,52 @@
 layout: default
 ---
 
-<div class="home">
-  <h1 style="margin-top: 20px;">Let's put on some nice music and go for a long drive:</h1>
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/HiOFn6qZXsI" frameborder="0" allowfullscreen></iframe>
-  
-  <ul class="posts" style="margin-top: 20px;">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
-        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-      </li>
-    {% endfor %}
-  </ul>
-  
-  <a class="twitter-timeline" href="https://twitter.com/lunafiko" data-widget-id="509431824074829824">Tweets by @lunafiko</a>
-  <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+<style>
+    .cols {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+        align-items: flex-start;
 
+        margin-top: 20px;
+    }
+
+    .posts {
+        flex-grow: 1;
+    }
+
+    .posts .trips {
+        flex-grow: 2;
+    }
+
+    .posts h2 {
+        font-size: 1.3em;
+    }
+</style>
+
+<div class="home">
+  <div class="cols">
+      <ul class="posts trips">
+          <h2>Trip reports:</h2>
+          {% for trip in site.trips reversed %}
+            <li>
+                <span class="post-date">{{ trip.date | date: "%b %-d, %Y" }}</span>
+                <a class="post-link" href="{{ trip.url | prepend: site.baseurl }}">{{ trip.title }}</a>
+            </li>
+          {% endfor %}
+      </ul>
+
+      <ul class="posts">
+        <h2>My February cross-Canada drive:</h2>
+        <iframe width="444px" height="250px" src="https://www.youtube.com/embed/HiOFn6qZXsI" frameborder="0" allowfullscreen></iframe>
+
+        <h2>Blog:</h2>
+        {% for post in site.posts %}
+          <li>
+            <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
+            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+          </li>
+        {% endfor %}
+      </ul>
+  </div>
 </div>

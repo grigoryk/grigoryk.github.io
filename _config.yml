@@ -8,3 +8,8 @@ url: "http://www.grigory.ca"
 # Build settings
 markdown: kramdown
 permalink: :year/:month/:title/
+
+collections:
+    trips:
+        output: true
+        permalink: /trips/:year/:month/:title/

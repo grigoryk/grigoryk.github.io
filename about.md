@@ -6,8 +6,11 @@ permalink: /about/
 
 Привет!
 
-My name is Grisha. If you were to observe me for a week, you might notice that I spend a lot of my time trying to will computer programs into existence, for better or worse. I also like to physically traverse the world, one hike at a time, to try and see what it is all about.
+My name is Grisha. I currently live, hike, bike, ski and work in Vancouver, BC. I grew up in Tashkent (Uzbekistan), and after moving away with my parents in 2002 I have lived in Zelenograd (Russia) and in various cities in Canada (Toronto, Victoria, Kitchener, Waterloo).
 
-[Instagram](http://instagram.com/lunafiko) | [LinkedIn](https://www.linkedin.com/in/grigorykruglov) | [Twitter](http://twitter.com/lunafiko)
+<figure>
+    <figcaption>Photo: A valley next to Ben Lui in Scotland. It took me hours to find it after getting completely lost in dense fog as I was coming down from Ben Lui's peak.</figcaption>
+    <img src="http://i.imgur.com/U5uhgJk.jpg" title="Lost in the Scottish highlands" width="100%" />
+</figure>
 
-<img src="http://i.imgur.com/U5uhgJk.jpg" title="Lost in the scottish highlands" width="100%" />
+Some links: [Instagram](http://instagram.com/lunafiko), [LinkedIn](https://www.linkedin.com/in/grigorykruglov), [Twitter](http://twitter.com/lunafiko)
