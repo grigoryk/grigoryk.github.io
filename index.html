@@ -47,31 +47,28 @@ layout: default
     <div class="content">
         <div class="posts">
             {% for col in site.collections %}
-                {% for post in col %}
-                    {% for doc in post.docs reversed %}
-                        <div class="post">
-                            <span class="post-date">{{ doc.date | date: "%b %-d, %Y" }}</span>
-                            <a class="post-link" href="{{ doc.url | prepend: site.baseurl }}">{{ doc.title }}</a>
-                            <p>{{ doc.teaser }}</p>
-                        </div>
-                    {% endfor %}
+                {% for doc in col.docs reversed %}
+                    <div class="post">
+                        <span class="post-date">{{ doc.date | date: "%b %-d, %Y" }}</span>
+                        <a class="post-link" href="{{ doc.url | prepend: site.baseurl }}">{{ doc.title }}</a>
+                        <p>{{ doc.teaser }}</p>
+                    </div>
                 {% endfor %}
           {% endfor %}
         </div>
     </div>
 
-  <div class="sidebar">
-      <div class="cat">
-          <h2>About me</h2>
-          <p>I'm a Russian-Canadian, currently living in Vancouver. I grew up in Uzbekistan. During the week I work at the non-profit Mozilla. On the weekends I enjoy the outdoors.</p>
-      </div>
+    <div class="sidebar">
+        <div class="cat">
+            <h2>About me</h2>
+            <p>I'm a Russian-Canadian, currently living in Vancouver. I grew up in Uzbekistan. During the week I work at the non-profit Mozilla. On the weekends I enjoy the outdoors.</p>
+        </div>
 
-    {% for col in site.collections %}
-        {% for post in col %}
+        {% for col in site.collections %}
             <div class="cat">
-                <h2>{{ post.title }}</h2>
+                <h2>{{ col.title }}</h2>
                 <ul>
-                {% for doc in post.docs reversed %}
+                {% for doc in col.docs reversed %}
                     <li>
                         <span class="post-date">{{ doc.date | date: "%b, %Y" }}</span>
                         <a class="post-link" href="{{ doc.url | prepend: site.baseurl }}">{{ doc.title }}</a>
@@ -80,6 +77,5 @@ layout: default
                 </ul>
             </div>
         {% endfor %}
-    {% endfor %}
-</div>
+    </div>
 </div>
