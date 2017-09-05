@@ -12,7 +12,8 @@ teaser:
 ---
 I bought these sandals on May 5th, 2017. This review is written on September 4th, 2017.
 
-**Usage**
+Usage
+---
 I've been wearing these sandals every every day. On an average week that includes cycling or walking (~4km) to work, walking around the city, walking in the office to get coffee, and hiking on the weekends. I run in Lunas as well, but I don't run often - perhaps a couple of times a month, for about 5-10km. I did some multi-day backpacking trips in these sandals as well. The single worst thing I've done in them is probably foot breaking on a longboard - but only once, since the tread wears out very heavily.
 
 I guess most of the "wear and tear" happens during my hikes. A typical hike would include a day pack and 5-8 hours of walking up and down coastal mountains near Vancouver.
@@ -21,22 +22,33 @@ I guess most of the "wear and tear" happens during my hikes. A typical hike woul
     <img class="img-responsive" src="/trip_images/sandals/2017-09-04-luna-mono-2-sandals-four-month-review/2.jpg" />
 </figure>
 
-**Impressions**
-Overall, I love these sandals. They are by far the most comfortable footwear I've had the pleasure of wearing. That goes for all of the uses I've put them through, but they're especially great while hiking. The treat is quite sticky, and I've never felt that they weren't enough of a shoe in any of my hikes. However, on my backpacking trips, after a few long days of walking through mountains with an overnight pack, I would overuse my ankles. Currently I'm chalking this up to "my feet aren't strong enough". Normally I would go on multi-day trips in my regular Merrel Moab hiking boots, and so this is new territory for me.
+Impressions
+---
+Overall, I love these sandals. They are some of the most comfortable footwear I've had the pleasure of wearing. That goes for all of the uses I've put them through, but they're especially great while hiking. The tread is quite sticky, and I've never felt that they weren't enough of a shoe in any of my hikes. Soles "molded" after a few weeks, hugging my feet a little bit. Lack of a toe box really helps on long slogs down fire roads, or just any prolonged downhill sections. In my "regular" hiking shoes, or in VFFs, something would inevitably start to rub, or my toes would hit the front of the shoe over and over again, to great discomfort. Not so in these sandals - or most other similar ones, I imagine - which is a huge plus. However, on my backpacking trips, after a few long days of walking through mountains with an overnight pack, I would overuse my ankles to the point of needing a good few days of rest to recover. Currently I'm chalking this up to "my feet aren't strong enough". Normally I would go on multi-day trips in my regular Merrel Moab hiking boots, and so this is new territory for me.
 
-Lunas came with "tech straps", which you can attach around your ankles for added support. I personally don't find them very useful, and almost never wear them. Sandals work just as well without these straps on my feet.
+Lunas came with ankle straps, they call them "tech straps" - you attach them around your ankles for added support. I personally don't find them very useful, and almost never wear them. Sandals work just as well without these straps on my feet.
 
 These sandals get a lot of attention on the trails. I'm used to people looking at my feet while hiking, since I'd be either wearing my Fivefingers or going barefoot, and Lunas are no different.
 
 They were *not* very comfortable at the start - specifically the front strap did irritate me for a couple of weeks. Also, for my taste they're a tad too thick. However, now that they've worn down quite a bit, I find them nicer to walk in.
 
-**Wear and tear**
-This brings me to "wear". Frankly, I'm disappointed. I've only had these Lunas for four months, and looking at their tread I don't think they will last another summer. It's a tricky design constraint - the soles need to be soft enough to be comfortable and offer a "minimalist" feel, but they also must be durable. It's hard to say if Luna did a good job combining these two requirements - or rather, if these Vibram soles were the right choice. Other than "tread", there's not much to these sandals. The "top layer" started to peel off a bit (see photos below). The straps and the buckles are as good as new and feel pretty bulletproof.
+I often get these sandals wet on the trails - cooling down my feet in the creek (which is awesome!), crossing muddy sections, etc. They're not awesome while wet - comfortable enough to keep going, but my feet do slide around a bit. Add in a steep trail with a heavy pack on my back, and that starts to become a consideration. I can feel the extra stress on the straps as my foot slides while walking up or down, which makes me worried that something might tear or break. There's no sign of that, but I've read stories about Lunas breaking mid-hike. On longer hikes and multi-day trips I always take my VFFs as a backup option. 
 
-**Summary**
-Very comfortable sandals, I love the idea of them, but given their current condition I'm projecting that they're going to be a poor value at ~$120CAD. Given my usage, I anticipate retiring them sometime in spring or early summer of 2018, which is about a year after purchasing (I'm not planning to wear them on the cold rainy winter days). In the meantime, I'm going to look into building similar sandals myself.
+Wear and tear
+---
+Frankly, I'm disappointed. I've only had these Lunas for four months, and looking at their tread I don't think they will last another summer. It's a tricky design constraint - soles need to be soft enough to be comfortable and offer a "minimalist" feel, but they also must be durable. It's hard to say if Luna did a good job combining these two requirements - or rather, if these Vibram soles were the right choice. Other than "tread", there's not much to these sandals. Footbed started to peel off a bit (see photos below). The straps and the buckles are as good as new and feel pretty bulletproof - they're also basic nylon straps, similar to my climbing slings; I don't anticipate much happening to them.
 
-In comparison, my 7 or 8 year old hiking fivefingers are still going strong, and I bought them for about the same price.
+Daily wear gotchas
+---
+Sandals are great for wearing around the city. However, one thing didn't occur to me four months ago - there's a lot of dirt in the cities! Vancouver looks and feel clean, but my feet are still dirty at the end of the day. That's not something I had to be very conscious of before. Sandals themselves need to be washed as well. I wash mine thoroughly about once a week, and the water is always quite dark. Otherwise, bad smell starts to become a problem.
+
+Summary
+---
+Very comfortable sandals, I love the idea of them, but given their current condition I'm projecting that they're going to be rather poor value at ~$120CAD. Given my usage, I anticipate retiring them sometime in spring or early summer of 2018, which is about a year after purchasing (I'm not planning to wear them on the cold rainy winter days). In the meantime, I'm going to look into building similar sandals myself.
+
+In comparison, my 7 or 8 year old hiking fivefingers are still going strong, and I bought them for about the same price. My 5 year old Merrel Moabs goretex boots are going strong as well - and I use them in all four seasons. Both of these shoes are much more complicated, as well. Of course, there's a matter of "economies of scale", and various other things at play here - a popular book that we've all read, some good marketing...
+
+Regardless, paying so much money for a piece of rubber and some nylon straps feels a bit ridiculous if the whole thing won't actually last more than a year. The whole affair feels irresponsible to me. Companies should strive to make products lasts as long as possible, and reduce their impact. Sandals that last one hiking season are no better than disposable, non-repairable garbage sneakers that are sold in your local mall. Perhaps their minimalism is their saving grace - less material ends up in the landfill.
 
 Here is what my Monos look like after four months of daily wear:
 
