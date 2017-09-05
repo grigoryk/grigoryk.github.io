@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Developer's block - and how I'm trying to deal with it"
-date:   2015-11-03 22:31:00
+date:   2015-11-03 22:31:00 -0800
 categories: personal meta
 permalink: /2015/11/developers-block-and-dealing-with-it/
 ---

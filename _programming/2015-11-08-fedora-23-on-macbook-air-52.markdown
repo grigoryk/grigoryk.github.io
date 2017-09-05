@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Running Fedora 23 on Macbook Air 5,2 (mid-2012 model)"
-date:   2015-11-08 22:31:00
+date:   2015-11-08 22:31:00 -0800
 categories: personal meta
 permalink: /2015/11/fedora-23-on-macbook-air-52/
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Fully distributed web applications?"
-date:   2015-11-20 00:51:00
+date:   2015-11-20 00:51:00 -0800
 categories: internet
 permalink: /2015/11/fully-distributed-web-applications/
 ---

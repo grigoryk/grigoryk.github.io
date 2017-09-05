@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "My interview with Mozilla"
-date:   2016-03-28 00:13:13
+date:   2016-03-28 00:13:13 -0800
 categories: mozilla
 permalink: /2016/03/my-interview-with-mozilla/
 ---

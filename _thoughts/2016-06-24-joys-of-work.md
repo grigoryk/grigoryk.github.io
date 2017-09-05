@@ -1,11 +1,11 @@
 ---
 layout: post
 title:  "Joys of work"
-date:   2016-06-24 17:40:13
+date:   2016-06-24 17:40:13 -0800
 categories: thoughts
 permalink: /2016/06/joys-of-work/
 ---
-Why do we work? The first thought that seems to inevitably come to mind is that most people can't avoid it. Not out of any noble sense, but simply because they can't afford to not work. Personally, I feel that this view of work is unfortunately perverse. If I was well-off enough to be able to sit around and do whatever I please, surely in time I would start to perform regular activities, make some progress on personal projects, perhaps work on a garden, learn pottery, whatever. What would I call my activities, once they start to take shape of something regular and give me a sense of purpose? I might start calling them my "work", but in a loftier sense, with more air to it - and perhaps foolishly, with more weight and meaning?
+Why do we work? The first thought that seems to inevitably come to mind is that most people can't avoid it. Not out of any noble sense, but simply because they can't afford to not work. Personally, I feel that this view of work is unfortunately perverse. If I was well-off enough to be able to sit around and do whatever I please, surely in time I would start to perform regular activities, make some progress on personal projects, perhaps work on a garden, learn pottery, etc. What would I call my activities, once they start to take shape of something regular and give me a sense of purpose? I might start calling them "my work", but in a loftier sense, with more air to it - and perhaps foolishly, with more weight and meaning?
 
 When I'm thinking of the word "work" in its day-to-day sense, and how people often perceive it, another word comes to mind - "burden". Having to work is often viewed as a personal burden. Nothing is absolute, of course - and what one finds to be a burden could still very well provide pleasure. Personally, I've observed that pleasure to be two-fold. One side of it is a sense and realization that I'm helping to create a comfortable material existence for whoever is in any way dependent on me. It is very satisfying to see that I'm able to provide for my family, and help out my friends when and if they need help. That's one aspect, and surely this in itself should be enough to sustain a career. Another side of this is that any type of work could be in many ways interesting - and not just in a sense of solving puzzles or "hard problems", as computer programming jobs are often pitched to potential employees and students, but in a much broader sense of personal interest.
 
@@ -23,7 +23,7 @@ My first job after university made me absolutely miserable. It paid well, it gav
 
 Two different quotes come to mind [0] when thinking about work in a sense of "burden". First is Spinoza's: Emotion, which is suffering, ceases to be suffering as soon as we form a clear and precise picture of it. Another is Nietzsche's: He who has a 'why' can bear any 'how'. If our work has meaning, as small and personal or as grandiose as it might be, it has full potential to not only be bearable, but also very enjoyable. My own society seems to strive to provide its members with a sense of "default meaning" - I work, I pay taxes, and as a result I contribute to a common goal of building a more comfortable, stable and predictable existence. That's the promise at least, and it's easy to see how dissatisfied people get when that promise appears to be broken.
 
-Coming back to the distinction between "work as a burden", and "work as a lofty pursuit", perhaps it really isn't as black and white. After all, most things aren't. We get to choose my own attitudes, and our own outlook on life and its activities. This is one ultimate freedom we all have, and mindfully applying it in our daily lives is bound to help. Perhaps "burden with a purpose" has a good ring to it?
+Coming back to the distinction between "work as a burden", and "work as a lofty pursuit", perhaps it really isn't as black and white. After all, most things aren't. We get to choose our own attitudes, and our own outlook on life and its activities. This is one ultimate freedom we all have, and mindfully applying it in our daily lives is bound to help. Perhaps "burden with a purpose" has a good ring to it?
 
 <br><br><br>
 <hr>

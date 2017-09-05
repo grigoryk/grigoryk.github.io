@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Easily change SQLite user_version pragma with a hex editor"
-date:   2016-06-02 23:17:13
+date:   2016-06-02 23:17:13 -0800
 categories: sqlite
 permalink: /2016/06/change-sqlite-user-version-pragma-hex-editor/
 ---

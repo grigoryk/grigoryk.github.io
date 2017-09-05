@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Hollyburn and Strachan lift-assisted ski tour"
-date:   2017-01-05 20:54:13
+date:   2017-01-05 20:54:13 -0800
 categories: trips
 permalink: /2017-01/hollyburn-strachan-lift-ski-tour/
 teaser:

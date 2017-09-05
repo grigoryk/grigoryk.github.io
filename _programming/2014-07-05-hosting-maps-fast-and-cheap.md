@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Hosting MBTiles maps, fast and cheap"
-date: 2014-07-05 13:37:00
+date: 2014-07-05 13:37:00 -0800
 categories: maps loveyourmap mbtiles devops
 ---
 Intro

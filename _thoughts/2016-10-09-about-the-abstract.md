@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Abstract adventures"
-date:   2016-10-09 02:09:13
+date:   2016-10-09 02:09:13 -0800
 categories: thoughts
 permalink: /2016/06/about-the-abstract/
 ---

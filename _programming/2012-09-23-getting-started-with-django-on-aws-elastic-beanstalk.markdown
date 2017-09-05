@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Getting started with Django on AWS Elastic Beanstalk"
-date: 2012-09-15 21:31:00
+date: 2012-09-15 21:31:00 -0800
 categories: jekyll update
 permalink: /2012/09/getting-started-with-django-on-aws-elastic-beanstalk/
 teaser:
