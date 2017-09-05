@@ -3,12 +3,26 @@ layout: default
 ---
 
 <style>
-    .cols {
+    .home {
+        width: 100%;
+        display: flex;
+    }
+
+    .sidebar {
+        width: 20%;
+    }
+
+    .sidebar .cat {
+        margin-bottom: 10px;
+    }
+
+    .content {
         display: flex;
         flex-direction: row;
         justify-content: space-around;
         align-items: flex-start;
-
+        width: 80%;
+        padding-right: 40px;
         margin-top: 20px;
     }
 
@@ -23,31 +37,49 @@ layout: default
     .posts h2 {
         font-size: 1.3em;
     }
+
+    .post {
+        margin-bottom: 20px;
+    }
 </style>
 
 <div class="home">
-  <div class="cols">
-      <ul class="posts trips">
-          <h2>Trip reports:</h2>
-          {% for trip in site.trips reversed %}
-            <li>
-                <span class="post-date">{{ trip.date | date: "%b %-d, %Y" }}</span>
-                <a class="post-link" href="{{ trip.url | prepend: site.baseurl }}">{{ trip.title }}</a>
-            </li>
+    <div class="content">
+        <div class="posts">
+            {% for col in site.collections %}
+                {% for post in col %}
+                    {% for doc in post.docs reversed %}
+                        <div class="post">
+                            <span class="post-date">{{ doc.date | date: "%b %-d, %Y" }}</span>
+                            <a class="post-link" href="{{ doc.url | prepend: site.baseurl }}">{{ doc.title }}</a>
+                            <p>{{ doc.teaser }}</p>
+                        </div>
+                    {% endfor %}
+                {% endfor %}
           {% endfor %}
-      </ul>
+        </div>
+    </div>
 
-      <ul class="posts">
-        <h2>My February cross-Canada drive:</h2>
-        <iframe width="444px" height="250px" src="https://www.youtube.com/embed/HiOFn6qZXsI" frameborder="0" allowfullscreen></iframe>
+  <div class="sidebar">
+      <div class="cat">
+          <h2>About me</h2>
+          <p>I'm a Russian-Canadian, currently living in Vancouver. I grew up in Uzbekistan. During the week I work at the non-profit Mozilla. On the weekends I enjoy the outdoors.</p>
+      </div>
 
-        <h2>Blog:</h2>
-        {% for post in site.posts %}
-          <li>
-            <span class="post-date">{{ post.date | date: "%b %-d, %Y" }}</span>
-            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-          </li>
+    {% for col in site.collections %}
+        {% for post in col %}
+            <div class="cat">
+                <h2>{{ post.title }}</h2>
+                <ul>
+                {% for doc in post.docs reversed %}
+                    <li>
+                        <span class="post-date">{{ doc.date | date: "%b, %Y" }}</span>
+                        <a class="post-link" href="{{ doc.url | prepend: site.baseurl }}">{{ doc.title }}</a>
+                    </li>
+                {% endfor %}
+                </ul>
+            </div>
         {% endfor %}
-      </ul>
-  </div>
+    {% endfor %}
+</div>
 </div>

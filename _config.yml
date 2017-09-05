@@ -10,6 +10,19 @@ markdown: kramdown
 permalink: :year/:month/:title/
 
 collections:
-    trips:
+    outdoors:
+        title: Outdoors
         output: true
-        permalink: /trips/:year/:month/:title/
+        permalink: /:year/:month/:title/
+    programming:
+        title: Programming
+        output: true
+        permalink: /:year/:month/:title/
+    thoughts:
+        title: General Writing
+        output: true
+        permalink: /:year/:month/:title/
+    videos:
+        title: Videos
+        output: true
+        permalink: /:year/:month/:title/
