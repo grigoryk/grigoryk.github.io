@@ -4,6 +4,7 @@ title:  "Joys of work"
 date:   2016-06-24 17:40:13 -0800
 categories: thoughts
 permalink: /2016/06/joys-of-work/
+description: Personal musings on why we work
 ---
 Why do we work? The first thought that seems to inevitably come to mind is that most people can't avoid it. Not out of any noble sense, but simply because they can't afford to not work. Personally, I feel that this view of work is unfortunately perverse. If I was well-off enough to be able to sit around and do whatever I please, surely in time I would start to perform regular activities, make some progress on personal projects, perhaps work on a garden, learn pottery, etc. What would I call my activities, once they start to take shape of something regular and give me a sense of purpose? I might start calling them "my work", but in a loftier sense, with more air to it - and perhaps foolishly, with more weight and meaning?
 

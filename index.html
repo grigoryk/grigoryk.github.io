@@ -51,7 +51,12 @@ layout: default
                     <div class="post">
                         <span class="post-date">{{ doc.date | date: "%b %-d, %Y" }}</span>
                         <a class="post-link" href="{{ doc.url | prepend: site.baseurl }}">{{ doc.title }}</a>
-                        <p>{{ doc.teaser }}</p>
+                        <p>
+                            <figure>
+                                <figcaption>{{ doc.description }}</figcaption>
+                                <img class="img-responsive" src="{{ doc.image }}" />
+                            </figure>
+                        </p>
                     </div>
                 {% endfor %}
           {% endfor %}

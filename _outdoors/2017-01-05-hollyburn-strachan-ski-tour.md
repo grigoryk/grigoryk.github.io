@@ -4,11 +4,8 @@ title:  "Hollyburn and Strachan lift-assisted ski tour"
 date:   2017-01-05 20:54:13 -0800
 categories: trips
 permalink: /2017-01/hollyburn-strachan-lift-ski-tour/
-teaser:
-    <figure>
-        <figcaption>More explorations of Hollyburn Mountain and Mount Stratchan on skis.</figcaption>
-        <img class="img-responsive" src="/trip_images/ski-touring/2017-01-hollyburn-strachan-lift-ski-tour/5.jpeg" />
-    </figure>
+description: Explorations of Hollyburn Mountain and Mount Stratchan on skis.
+image: /trip_images/ski-touring/2017-01-hollyburn-strachan-lift-ski-tour/5.jpeg
 ---
 After a fun little <a href="/2017-01/new-year-hollyburn-ski-tour/">January 1st outing</a>, Stefan and I decided to go exploring Hollyburn/Strachan area a bit more. I've bought new downhill boots (Technica Mach1 LV 130), so wanted to see if I can tour in them at all (answer: yes! 11am-3:30pm trip was acceptably comfortable, with excellent support on the way down).
 

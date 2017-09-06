@@ -4,8 +4,7 @@ title: "Getting started with Django on AWS Elastic Beanstalk"
 date: 2012-09-15 21:31:00 -0800
 categories: jekyll update
 permalink: /2012/09/getting-started-with-django-on-aws-elastic-beanstalk/
-teaser:
-  An old, but at the time popular blog post I wrote about running Django apps on AWS.
+description: Running Django apps on AWS circa 2012.
 ---
 **Note #1**: this writeup made it into the [Python Weekly Newsletter #54](http://t.co/b4gwDd6M)!
 

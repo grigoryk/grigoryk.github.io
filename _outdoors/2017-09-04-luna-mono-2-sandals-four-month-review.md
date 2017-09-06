@@ -4,11 +4,8 @@ title:  "Luna Mono 2.0 Sandals - four month review"
 date:   2017-09-04 19:31:13 -0800
 categories: reviews
 permalink: /2017-09/luna-mono-2-sandals-four-month-review/
-teaser:
-    <figure>
-        <figcaption>I've been wearing Luna Mono 2.0 sandals every day for four months. I love them, but they're not fairing all that well.</figcaption>
-        <img class="img-responsive" src="/trip_images/sandals/2017-09-04-luna-mono-2-sandals-four-month-review/1.jpg" />
-    </figure>
+image: /trip_images/sandals/2017-09-04-luna-mono-2-sandals-four-month-review/1.jpg
+description: I've been wearing Luna Mono 2.0 sandals every day for four months. I love them, but they're not fairing all that well.
 ---
 I bought these sandals on May 5th, 2017. This review is written on September 4th, 2017.
 

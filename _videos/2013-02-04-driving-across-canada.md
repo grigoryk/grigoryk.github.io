@@ -4,6 +4,7 @@ title:  "Driving across Canada in February"
 date:   2013-02-04 20:54:13
 categories: trips
 permalink: /2013-02/driving-across-canada/
+description: Timelapse of a cross-Canada drive in winter
 ---
 A few years ago, I lived in Ontario. In February of 2013 I went for a rather long drive with my dad - from Mississauga, ON, to Victoria, BC. A winter roadtrip is one hell of a way to move to British Columbia.
 

@@ -1,14 +1,11 @@
 ---
 layout: post
 title:  "Hollyburn Mountain ski tour"
-date:   2017-01-01 20:54:13
+date:   2017-01-01 20:54:13 -0800
 categories: ski-touring
 permalink: /2017-01/new-year-hollyburn-ski-tour/
-teaser:
-    <figure>
-        <figcaption>A quick day trip to begin the new year by skiing up and down Hollyburn Mountain.</figcaption>
-        <img class="img-responsive" src="/trip_images/ski-touring/2017-01-new-year-hollyburn-ski-tour/3.jpeg" />
-    </figure>
+description: A quick day trip to begin the new year by skiing up and down Hollyburn Mountain.
+image: /trip_images/ski-touring/2017-01-new-year-hollyburn-ski-tour/3.jpeg
 ---
 New year began with a quick trip up and down SW face of Hollyburn Mountain. This was my first self-propelled skiing of the 16/17 season!
 

@@ -4,6 +4,7 @@ title:  "Abstract adventures"
 date:   2016-10-09 02:09:13 -0800
 categories: thoughts
 permalink: /2016/06/about-the-abstract/
+description: What is it like to explore abstract worlds every day?
 ---
 What is it like to explore and will into existence creations abstract in nature? Explore their shapes, understand the intricate fabric, the coarse skin, the surface tension of the many layers. What is it like to see their colours, know how they feel to the touch, observe their flow through time, know them in the past, present, imagine them in the future?
 
