@@ -8,7 +8,7 @@ description: Timelapse of a cross-Canada drive in winter
 ---
 A few years ago, I lived in Ontario. In February of 2013 I went for a rather long drive with my dad - from Mississauga, ON, to Victoria, BC. A winter roadtrip is one hell of a way to move to British Columbia.
 
-Shot with a GoPro mounted on the dashboard and taking a photo every 10 seconds. Some odd 44,000+ photos where then combined into video chunks using ffmpeg, and edited with iMovie.
+Shot with a GoPro mounted on the dashboard and taking a photo every 10 seconds. I've combined about 44,000+ photos into video chunks using ffmpeg, and stitched it all together with iMovie.
 
 Music:
 
