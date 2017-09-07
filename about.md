@@ -11,7 +11,7 @@ My name is Grisha. I was born in the USSR, grew up in Tashkent (Uzbekistan), and
 I spend most of my time working on Firefox, mostly on its <a href="https://play.google.com/store/apps/details?id=org.mozilla.firefox">Android version</a> and <a href="https://www.mozilla.org/en-US/firefox/features/sync/">Firefox Sync</a>. It's a constantly humbling experience - building software at scale is hard, and I'm learning a lot about the craft, and about myself.
 
 <figure>
-    <img src="http://i.imgur.com/U5uhgJk.jpg" title="Lost in the Scottish highlands" width="100%" />
+    <img src="/trip_images/ben-lui-valley.jpg" title="Lost in the Scottish highlands" width="100%" />
     <figcaption>Photo: A valley next to Ben Lui in Scotland. It took me hours to find it after getting completely lost in dense fog as I was coming down from Ben Lui's peak.</figcaption>
 </figure>
 
