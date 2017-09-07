@@ -4,7 +4,7 @@ title: "Privacy-aware blog"
 date: 2017-09-07 00:31:13 -0800
 categories: blog
 permalink: /2017-09/privacy-aware-blog/
-description: I've removed anything that might track readers of this blog
+description: I've removed all third-party code that might track readers of this website.
 ---
 I just removed Google Analytics and Disqus comments from this website. I'm hoping to replace both with self-hosted solutions. Currently, there is *no* analytics. And if you'd like to comment, just email me.
 
