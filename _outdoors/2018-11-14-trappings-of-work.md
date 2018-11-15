@@ -4,7 +4,7 @@ title:  "An evening sketch"
 date:   2018-10-14 19:31:13 -0800
 categories: reviews
 permalink: /2018-10/evening-sketch/
-description: .
+description: Life of a modern worker, a.k.a. productive mornings, draining days and numb evenings.
 ---
 Burnt out, just depressed, or is this actually just very hard? Maybe that's stress, there's been a lot of that lately. I've read somewhere that stress is good in moderation.
 
