@@ -6,17 +6,44 @@ categories: gradle android
 permalink: /2021/07/when-gradle-composite-builds-dont-work/
 ---
 
-During the day I work on Firefox for Android (codename Fenix). It has a highly modular architecture - composed out of many different modules that mostly plug-and-play, like a Lego set (albeit, with some distinctively non-Lego glue here and there). These different pieces of the system live across several repositories. They have somewhat aligned lifecycles, and the final app is composed out of a set of published, tested-to-work-together versions of these modules.
+During the day I work on Firefox for Android (codename Fenix). It has a highly modular architecture - composed out of many different libraries that mostly plug-and-play, like a Lego set (albeit, with some distinctively non-Lego-like glue here and there, aka the Fenix codebase itself). These different pieces of the system live across several repositories. They have somewhat aligned lifecycles, and the final app is composed out of a set of published, tested-to-work-together versions of these modules.
 
-This post won't discuss trade-offs between a mono repo vs splitting code across multiple repositories. That's a much larger topic that should touch on organizational dynamics almost more than technical aspects involved. Instead, I'll simply describe how we make the local development experience rather pleasant when working across multiple gradle projects.
+It all mostly works out, most of the time. This post won't discuss the trade-offs between a mono repo vs splitting code across multiple repositories. That's a much larger topic that should touch on organizational dynamics almost more than the technical aspects involved. This hypothetical post will need to start with a definition of Conway's Law.
 
-Here is how you build Fenix locally:
-- checkout the code
-- open it in Android Studio
-- press 'play'
+So, instead, I'll simply describe how we make the local development experience more-pleasant-than-one-would-assume when working across multiple gradle projects.
+
+Here is how you'd build Fenix:
+- checkout the main repo and the "library" repos you care about
+- in a Fenix config file, specify which sets of libraries you'd like to build locally
+- open Fenix in Android Studio, press 'play'
 - done!
 
-This is nice and simple, but it will build Fenix against specific versions of its dependencies. What if you wanted to build across local versions of these dependencies?
+This could build the libraries you have locally - some in Rust, some in Java, some in Kotlin, and tie it all together. If you didn't specify local versions of something, that'll be pinned to whatever version is listed in the build files.
+
+You'd assume we're using [Gradle Composite Builds](https://docs.gradle.org/current/userguide/composite_builds.html) for this - and I did try! And perhaps, I should try again. After all, Gradle Composite Builds are simply builds that include other builds - sounds exactly like what we want. But, at the time, something about our specific projects got Gradle really, really confused - to the point of poisoning the local Android Studio, forcing its victims (err, users) to reinstall the world and bang their hypothetical heads against nearby hypothetical walls.
+
+So, if Gralde Composite builds don't work for you for whatever reason, but you really need to, uhm, compose the builds, what do you do?
+
+## Local publication workflow
+
+So, what you do is fairly simple, but tedious. You use the `maven-publish` plugin, which
+
+It's pretty simple:
+- run builds of all configured dependencies
+- publish them locally (into a maven repository)
+- configure Fenix to take locally published dependencies instead of what it configures by default
+- finally, build Fenix itself.
+
+All of this could be done manually, which is what we had to do in the past. However, that's a very cumbersome process and there are many steps and local code modifications involved, making it both annoying and error-prone. So, how do we automate this?
+
+Also, fairly simple:
+- in Fenix,
+
+There are some pitfalls, mainly around speed:
+- Gradle is fairly slow; even if there are no changes in the project, running a build will take a bit of time.
+- So, if we just rely on Gradle to produce incremental builds, we'll slow down Fenix builds with every configured local repository
+
+It's straightforward to consume a dependency from a local repository. We use a [Maven Publish Plugin](https://docs.gradle.org/current/userguide/publishing_maven.html) to publish our libraries to local repositories.
 
 ## Our core dependencies
 
@@ -53,21 +80,3 @@ I've even recorded a little video demo, to help out external contributors and en
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/qZKlBzVvQGc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## How does this work?
-
-It's pretty simple:
-- run builds of all configured dependencies
-- publish them locally (into a maven repository)
-- configure Fenix to take locally published dependencies instead of what it configures by default
-- finally, build Fenix itself.
-
-All of this could be done manually, which is what we had to do in the past. However, that's a very cumbersome process and there are many steps and local code modifications involved, making it both annoying and error-prone. So, how do we automate this?
-
-Also, fairly simple:
-- in Fenix,
-
-There are some pitfalls, mainly around speed:
-- Gradle is fairly slow; even if there are no changes in the project, running a build will take a bit of time.
-- So, if we just rely on Gradle to produce incremental builds, we'll slow down Fenix builds with every configured local repository
-
-It's straightforward to consume a dependency from a local repository. We use a [Maven Publish Plugin](https://docs.gradle.org/current/userguide/publishing_maven.html) to publish our libraries to local repositories.
