@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Impact of a smartphone addiction"
+title:  "Impacts of a phone addiction"
 date:   2018-03-30 23:17:13 -0800
 categories: meta
 permalink: /2018/03/impact-of-a-smartphone-addiction/
@@ -21,7 +21,7 @@ There is an excellent Russian phrase which applies quite well: "the rescue of th
 
 If I'm being optimistic, I can see how our current use of phones will seem just as harmful and unhealthy in the future as smoking cigarettes is starting to seem today. The pessimist in me sees an Orwellian future enabled by Brave-new-World-ish patterns and "manufactured consent." It's a slippery slope: an addicted population with diminished cognitive abilities is a prime material for manipulation. Add to the mix rapid iteration, excellent metrics, tools such as A/B testing This kind of manipulation is already happening, both by private companies and state actors; I'm sure what we're reading about in the news is just a tip of the iceberg.
 
-The culture 
+The culture
 
 Here are some of the more obvious changes I've noticed in myself:
 - it's much harder to focus
@@ -48,4 +48,4 @@ While this pattern isn't new, the latest iteration of information overflow is ce
 
 I do enjoy a lot of benefits of having a smartphone: decent enough camera, instant access to information, communication with my friends and family, keeping a log of what "interesting" things I've been up to (via Instagram), mapping applications, podcast app, music, various utilities, backup emergency communication, etc. Quitting cold-turkey feels like a wrong way to approach this problem.
 
-Instead, I'm making subtle changes to what my phone feels like. The goal is to turn it into a tool as opposed to a slot machine" 
+Instead, I'm making subtle changes to what my phone feels like. The goal is to turn it into a tool as opposed to a slot machine"

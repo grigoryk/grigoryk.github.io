@@ -57,8 +57,8 @@ layout: default
 <div class="home">
     <div class="content">
         <div class="posts">
-            {% for col in site.collections %}
-                {% for doc in col.docs reversed %}
+            {% assign sorted = site.documents %}
+            {% for doc in site.posts %}
                     <div class="post">
                         <span class="post-date">{{ doc.date | date: "%b %-d, %Y" }}</span>
                         <a class="post-link" href="{{ doc.url | prepend: site.baseurl }}">{{ doc.title }}</a>
@@ -69,29 +69,21 @@ layout: default
                             </figure>
                         </p>
                     </div>
-                {% endfor %}
           {% endfor %}
         </div>
     </div>
 
     <div class="sidebar">
+        <h2>Posts</h2>
         <div class="cat">
-            <h2>About Grisha</h2>
-            <p>Hello! I am an "indoors/outdoors enthusiast", currently living in Vancouver, Canada. Day to day I write open source software at Mozilla, and try to get out into nature as much as possible.</p>
+            <ul>
+            {% for doc in site.posts %}
+                <li>
+                    <span class="post-date">{{ doc.date | date: "%b, %Y" }}</span>
+                    <a class="post-link" href="{{ doc.url | prepend: site.baseurl }}">{{ doc.title }}</a>
+                </li>
+            {% endfor %}
+            </ul>
         </div>
-
-        {% for col in site.collections %}
-            <div class="cat">
-                <h2>{{ col.title }}</h2>
-                <ul>
-                {% for doc in col.docs reversed %}
-                    <li>
-                        <span class="post-date">{{ doc.date | date: "%b, %Y" }}</span>
-                        <a class="post-link" href="{{ doc.url | prepend: site.baseurl }}">{{ doc.title }}</a>
-                    </li>
-                {% endfor %}
-                </ul>
-            </div>
-        {% endfor %}
     </div>
 </div>

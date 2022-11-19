@@ -2,7 +2,7 @@
 layout: post
 title:  "An evening sketch"
 date:   2018-11-14 19:31:13 -0800
-categories: reviews
+categories: thoughts
 permalink: /2018-11/evening-sketch/
 description: Life of a modern worker, a.k.a. productive mornings, draining days and numb evenings.
 ---
