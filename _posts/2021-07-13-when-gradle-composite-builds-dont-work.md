@@ -55,4 +55,4 @@ Once you put it all together, the dev experience is actually quite nice. You mak
 
 ## In closing...
 
-I realize that this is basically a giant hack, and if I look at it long enough my head starts to hurt, mostly from disappointment with our build systems. But, this flow works! It took less than a week to figure out/implement, and requires no maintanence. It involves no manual steps. It adds almost no additional overhead to the builds. And most importantly: it saved real engineering teams a lot of time, and enabled team members to work better across the stack, helping us deal with the Conway's law.
+I realize that this is basically a giant hack, and if I look at it long enough my head starts to hurt, mostly from disappointment with our build systems. But, at risk of sounding apologetic - this flow works! It took less than a week to figure out/implement, and requires no maintanence. It involves no manual steps. It adds almost no additional overhead to the builds. And most importantly: it saved real engineering teams a lot of time, and enabled team members to work better across the stack, helping us deal with the Conway's law.
