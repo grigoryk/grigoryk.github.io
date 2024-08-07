@@ -3,7 +3,7 @@ title: Grisha Kruglov
 email: grigory@kruglov.ca
 description: "Grisha's blog"
 baseurl: ""
-url: "http://www.grigory.ca"
+url: "https://www.grigory.ca"
 
 # Build settings
 markdown: kramdown
